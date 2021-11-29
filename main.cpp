@@ -6,14 +6,14 @@
 #include "std_lib_facilities.h"
 
 int main() {
-
-	string operation;
-	double num1;
-	double num2;
-	double result{};
 	int x = 1;
-
+	
 	while (x = 1) {
+
+		string operation;
+		double num1 = 0;
+		double num2 = 0;
+		double result{};
 
 		cout << "Enter operation: \n";
 		cin >> operation;
@@ -47,4 +47,6 @@ int main() {
 			}
 
 		}
-	}
+
+	
+}
